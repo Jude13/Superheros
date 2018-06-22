@@ -1,0 +1,35 @@
+body{
+  background-color: #33DDCC
+}
+
+p{
+  font-size: 52px;
+  font-family: 'Bangers';
+  color: #E50000
+}
+
+h1 {
+  font-family: 'Bangers';
+  color: #914545
+}
+img {
+  width: 45%;
+  padding: 3%;
+}
+
+.image2 {
+  width: 45%;
+}
+#text {
+  color: #914545
+}
+
+label{
+  color:#914545
+}
+
+label{
+  font-family: 'Bangers';
+  color: #914545;
+  font-size: 35px;
+}
